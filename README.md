@@ -10,10 +10,10 @@ In this project, I analyzed customer data to uncover hidden patterns and risk in
 
 ## Workflow
 
-✔️ Data Cleaning & Preprocessing  
-✔️ Exploratory Data Analysis (EDA)  
-✔️ Feature Understanding  
-✔️ Model Building  
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Feature Understanding  
+- Model Building  
 
 ---
 
