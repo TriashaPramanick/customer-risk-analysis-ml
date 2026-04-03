@@ -36,12 +36,12 @@ In this project, I analyzed customer data to uncover hidden patterns and risk in
 ## Project Structure
 
 Customer-Risk-Analysis/
-|
-|--- 01_data_understanding.ipynb
-|--- 02_eda.ipynb
-|--- 03_model_building.ipynb
-|
-|--- README.md
+│
+├── 01_data_understanding.ipynb
+├── 02_eda.ipynb
+├── 03_model_building.ipynb
+│
+└── README.md
 
 
 ---
